@@ -1,6 +1,6 @@
 <div align="center">
 
-# Language Translator (English ↔ Gujarati)
+# Language Translator (English → Gujarati)
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c)](https://pytorch.org/)
